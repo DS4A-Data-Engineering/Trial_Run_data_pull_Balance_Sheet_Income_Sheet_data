@@ -1,0 +1,24 @@
+Symbol,Security,GICS Sector,GICS Sub-Industry,Headquarters Location,Date added,CIK,Founded
+AMP,Ameriprise Financial,Financials,Asset Management & Custody Banks,"Minneapolis, Minnesota",2005-10-03,820027,1894
+BAC,Bank of America,Financials,Diversified Banks,"Charlotte, North Carolina",1976-06-30,70858,1998 (1923 / 1874)
+BEN,Franklin Templeton,Financials,Asset Management & Custody Banks,"San Mateo, California",1998-04-30,38777,1947
+BK,BNY Mellon,Financials,Asset Management & Custody Banks,"New York City, New York",1995-03-31,1390777,1784
+BLK,BlackRock,Financials,Asset Management & Custody Banks,"New York City, New York",2011-04-04,1364742,1988
+C,Citigroup,Financials,Diversified Banks,"New York City, New York",1988-05-31,831001,1998
+CFG,Citizens Financial Group,Financials,Regional Banks,"Providence, Rhode Island",2016-01-29,759944,1828
+CMA,Comerica,Financials,Diversified Banks,"Dallas, Texas",1995-12-01,28412,1849
+FITB,Fifth Third Bank,Financials,Regional Banks,"Cincinnati, Ohio",1996-03-29,35527,1858
+HBAN,Huntington Bancshares,Financials,Regional Banks,"Columbus, Ohio; Detroit, Michigan",1997-08-28,49196,1866
+IVZ,Invesco,Financials,Asset Management & Custody Banks,"Atlanta, Georgia",2008-08-21,914208,1935
+JPM,JPMorgan Chase,Financials,Diversified Banks,"New York City, New York",1975-06-30,19617,2000 (1799 / 1871)
+KEY,KeyCorp,Financials,Regional Banks,"Cleveland, Ohio",1994-03-01,91576,1825
+MTB,M&T Bank,Financials,Regional Banks,"Buffalo, New York",2004-02-23,36270,1856
+NTRS,Northern Trust,Financials,Asset Management & Custody Banks,"Chicago, Illinois",1998-01-30,73124,1889
+PNC,PNC Financial Services,Financials,Regional Banks,"Pittsburgh, Pennsylvania",1988-04-30,713676,1845
+RF,Regions Financial Corporation,Financials,Regional Banks,"Birmingham, Alabama",1998-08-28,1281761,1971
+STT,State Street Corporation,Financials,Asset Management & Custody Banks,"Boston, Massachusetts",2003-03-14,93751,1792
+TFC,Truist,Financials,Regional Banks,"Charlotte, North Carolina",1997-12-04,92230,1872
+TROW,T. Rowe Price,Financials,Asset Management & Custody Banks,"Baltimore, Maryland",,1113169,1937
+USB,U.S. Bank,Financials,Diversified Banks,"Minneapolis, Minnesota",,36104,1968
+WFC,Wells Fargo,Financials,Diversified Banks,"San Francisco, California",1976-06-30,72971,1852
+ZION,Zions Bancorporation,Financials,Regional Banks,"Salt Lake City, Utah",2001-06-22,109380,1873
